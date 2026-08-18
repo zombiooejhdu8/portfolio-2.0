@@ -1,1 +1,11 @@
+section{
+    display: flex;
+    justify-content: space-around;
+}
 
+
+#info{
+    align-items: center;
+    width: 50%;
+    padding: 10%;
+}
